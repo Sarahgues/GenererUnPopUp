@@ -11,6 +11,6 @@ Avec :
 
 #### Source et tuto :
 
-FROM SCRATCH -> [CSS #4] Générer une pop-up
+FROM SCRATCH -> [CSS #4] Générer un pop-up
 
 - https://www.youtube.com/watch?v=5bc5nGEjPIA&list=PLEiMYEzpB4QvFzUe2KPVgJ0EInbNbt1rH&index=6
