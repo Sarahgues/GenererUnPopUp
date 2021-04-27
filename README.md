@@ -1,14 +1,16 @@
-### Fichier de base pour commencer un mini-projet 
+### Fichier de base pour commencer un mini-projet
 
-Avec : 
-* des photos randoms
-* une navbar toute faite
-* un body tout fait
-* des sons
-* des svg
-* jQuery et Bootstrap reliés
+Avec :
 
-#### Démarrer projet avec Sass 
-* `npm run sass`
+- des photos randoms
+- une navbar toute faite
+- un body tout fait
+- des sons
+- des svg
+- jQuery et Bootstrap reliés
 
-browser-sync start --proxy localhost/***  --files '**/*' --no-notify
+#### Source et tuto :
+
+FROM SCRATCH -> [CSS #4] Générer une pop-up
+
+- https://www.youtube.com/watch?v=5bc5nGEjPIA&list=PLEiMYEzpB4QvFzUe2KPVgJ0EInbNbt1rH&index=6
